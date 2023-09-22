@@ -126,8 +126,8 @@ def cumulative_sum(oldlist):
 
 
 
-from import_exercises import calculate_tip
-calculate_tip(4, 29)
+from functions import calculate_tip
+print(calculate_tip(.30, 29))
 
 
 
